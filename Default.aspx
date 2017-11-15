@@ -1,4 +1,15 @@
 ﻿<%@ Page Title="" Language="VB" MasterPageFile="~/MasterPage.master" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="_Default" %>
+<!--
+Student Name: PJ Neidlinger
+Program Name: Personal Website
+Creation Date: 8/30/2017
+Last Modified Date: 11/13/2017
+CSCI Course: CSCI 332
+Grade Received: 98.6
+Comments Regarding Design: This website is used as a place to store and display all the labs
+completed throughout the course of the semester in CSCI 332, including HTML, CSS, and 
+VB.Net practice.
+-->
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
